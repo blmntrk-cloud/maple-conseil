@@ -1,0 +1,126 @@
+{
+  "catalog_name": "Franke — Éviers & Robinetterie",
+  "version": "1.0",
+  "last_updated": "2026-01-01",
+  "products": [
+    {
+      "reference": "FRANKE-MRG-110",
+      "brand": "Franke",
+      "name": "Évier 1 bac Maris MRG 110",
+      "type": "Évier",
+      "category": "evier",
+      "specs": {
+        "material": "Granit",
+        "color": "Noir",
+        "dimensions": "500 x 500 mm",
+        "bowls": "1",
+        "reversible": false
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "FRANKE-MRG-611",
+      "brand": "Franke",
+      "name": "Évier 1.5 bac Maris MRG 611",
+      "type": "Évier",
+      "category": "evier",
+      "specs": {
+        "material": "Granit",
+        "color": "Gris",
+        "dimensions": "780 x 500 mm",
+        "bowls": "1.5",
+        "reversible": true
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "FRANKE-ETN-611",
+      "brand": "Franke",
+      "name": "Évier 1.5 bac Etna ETN 611",
+      "type": "Évier",
+      "category": "evier",
+      "specs": {
+        "material": "Granit",
+        "color": "Noir",
+        "dimensions": "860 x 500 mm",
+        "bowls": "1.5",
+        "reversible": true
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "FRANKE-CVK-611",
+      "brand": "Franke",
+      "name": "Évier 1.5 bac Kubus CVK 611",
+      "type": "Évier",
+      "category": "evier",
+      "specs": {
+        "material": "Inox",
+        "color": "Inox",
+        "dimensions": "860 x 500 mm",
+        "bowls": "1.5",
+        "reversible": false
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "FRANKE-OLY-611",
+      "brand": "Franke",
+      "name": "Évier 1.5 bac Oryx OLY 611",
+      "type": "Évier",
+      "category": "evier",
+      "specs": {
+        "material": "Inox",
+        "color": "Inox brossé",
+        "dimensions": "860 x 500 mm",
+        "bowls": "1.5",
+        "reversible": true
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "FRANKE-115-0044-WS",
+      "brand": "Franke",
+      "name": "Mitigeur d'évier Neutra",
+      "type": "Mitigeur",
+      "category": "robinetterie",
+      "specs": {
+        "finish": "Inox",
+        "type": "Mitigeur",
+        "spout": "Pivotant 360°",
+        "installation": "1 trou"
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "FRANKE-115-0266-WS",
+      "brand": "Franke",
+      "name": "Mitigeur d'évier Active Plus",
+      "type": "Mitigeur",
+      "category": "robinetterie",
+      "specs": {
+        "finish": "Chrome",
+        "type": "Mitigeur",
+        "spout": "Pivotant 360°",
+        "installation": "1 trou",
+        "features": "Mousseur anti-calcaire"
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "FRANKE-115-0301-WS",
+      "brand": "Franke",
+      "name": "Mitigeur d'évier Steel Pro",
+      "type": "Mitigeur",
+      "category": "robinetterie",
+      "specs": {
+        "finish": "Inox brossé",
+        "type": "Mitigeur",
+        "spout": "Pivotant 360°",
+        "installation": "1 trou",
+        "features": "Douchette extractible"
+      },
+      "image_url": ""
+    }
+  ]
+}
