@@ -1,0 +1,147 @@
+{
+  "catalog_name": "BSH — Bosch / Siemens / Gaggenau / Neff",
+  "version": "1.0",
+  "last_updated": "2026-01-01",
+  "products": [
+    {
+      "reference": "BOSCH-HBN534S0B",
+      "brand": "Bosch",
+      "name": "Four encastrable multifonction Serie 4",
+      "type": "Four",
+      "category": "cuisson",
+      "specs": {
+        "capacity": "71L",
+        "energy_class": "A",
+        "color": "Noir",
+        "functions": "Chaleur de sole, Chaleur de sole + gril, Gril grande surface, Gril petite surface, Décongélation"
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "BOSCH-DFB644S0B",
+      "brand": "Bosch",
+      "name": "Hotte aspirante decorative Serie 4",
+      "type": "Hotte",
+      "category": "ventilation",
+      "specs": {
+        "width": "600mm",
+        "extraction_rate": "410 m³/h",
+        "noise_level": "64 dB",
+        "lighting": "LED"
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "BOSCH-KGN36VIEA",
+      "brand": "Bosch",
+      "name": "Réfrigérateur combiné Serie 6",
+      "type": "Réfrigérateur",
+      "category": "froid",
+      "specs": {
+        "total_capacity": "341L",
+        "energy_class": "E",
+        "no_frost": true,
+        "color": "Inox"
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "BOSCH-SMS4EMI00E",
+      "brand": "Bosch",
+      "name": "Lave-vaisselle Serie 4",
+      "type": "Lave-vaisselle",
+      "category": "lavage",
+      "specs": {
+        "place_settings": "13 couverts",
+        "energy_class": "E",
+        "noise_level": "46 dB",
+        "programs": "6"
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "SIEMENS-HB534ABS0F",
+      "brand": "Siemens",
+      "name": "Four encastrable iQ500",
+      "type": "Four",
+      "category": "cuisson",
+      "specs": {
+        "capacity": "71L",
+        "energy_class": "A",
+        "color": "Noir",
+        "functions": "3D Plus, Décongélation, Gril"
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "SIEMENS-LC67BC542B",
+      "brand": "Siemens",
+      "name": "Hotte décorative iQ500",
+      "type": "Hotte",
+      "category": "ventilation",
+      "specs": {
+        "width": "600mm",
+        "extraction_rate": "490 m³/h",
+        "noise_level": "62 dB",
+        "lighting": "LED"
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "NEFF-N50-U2ACM11N0B",
+      "brand": "Neff",
+      "name": "Four encastrable N50",
+      "type": "Four",
+      "category": "cuisson",
+      "specs": {
+        "capacity": "71L",
+        "energy_class": "A",
+        "color": "Noir",
+        "functions": "CircoTherm, Gril, Décongélation"
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "GAGGENAU-BO450111",
+      "brand": "Gaggenau",
+      "name": "Four encastrable Serie 400",
+      "type": "Four",
+      "category": "cuisson",
+      "specs": {
+        "capacity": "76L",
+        "energy_class": "A+",
+        "color": "Inox",
+        "functions": "Chaleur de sole, Vapeur, Micro-ondes"
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "BOSCH-PCQ615B91F",
+      "brand": "Bosch",
+      "name": "Table de cuisson gaz Serie 6",
+      "type": "Table de cuisson",
+      "category": "cuisson",
+      "specs": {
+        "width": "580mm",
+        "burners": "4",
+        "type": "Gaz",
+        "ignition": "One-touch"
+      },
+      "image_url": ""
+    },
+    {
+      "reference": "BOSCH-PIB375N14E",
+      "brand": "Bosch",
+      "name": "Table de cuisson induction Serie 6",
+      "type": "Table de cuisson",
+      "category": "cuisson",
+      "specs": {
+        "width": "580mm",
+        "zones": "4",
+        "type": "Induction",
+        "power_boost": true
+      },
+      "image_url": ""
+    }
+  ]
+}
